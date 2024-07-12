@@ -1,2 +1,3 @@
-# organization-information
-Provides information about the arcade game infrastructure and the organization itself.
+# Come Back Again Soon
+
+`README.md` coming soon...
