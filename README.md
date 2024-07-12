@@ -1,3 +1,0 @@
-# Come Back Again Soon
-
-`README.md` coming soon...
